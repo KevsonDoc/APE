@@ -1,2 +1,2 @@
-# EDA
-Estrutura de Dados e Algoritimos
+# APE
+ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA 

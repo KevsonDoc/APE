@@ -67,7 +67,8 @@ int main() {
 	int menu_options;
 	
 	do {
-		int menu_options = le_valida_opcao_menu();
+		menu_options = le_valida_opcao_menu();
+		printf("%d", menu_options);
 	} while (menu_options != 8);
 //	struct Endereco {
 //		char logradouro[50];
